@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a) ao meu perfil! 👋
+# Olá, boas-vindas ao meu perfil! 👋
 
 Sou profissional da área de tecnologia em transição para Quality Assurance (QA), com experiência em desenvolvimento web e foco na qualidade de software, validação de funcionalidades e melhoria da experiência do usuário.
 
