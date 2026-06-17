@@ -1,46 +1,89 @@
-## Olá, meu nome é Caio e sou desenvolvedor Front End!
+# Olá, seja bem-vindo(a) ao meu perfil! 👋
+
+Sou profissional da área de tecnologia em transição para Quality Assurance (QA), com experiência em desenvolvimento web e foco na qualidade de software, validação de funcionalidades e melhoria da experiência do usuário.
+
+Atualmente estudo e aplico práticas de testes manuais, análise de requisitos e documentação de defeitos, ampliando meus conhecimentos em testes de API e automação de testes.
 
 ---
 
-<div align="center">
-  <img alt="HTML5" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img alt="React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-</div>
+## 🔎 Sobre mim
+
+Minha experiência com desenvolvimento web me permite compreender o ciclo completo de construção de software, facilitando a comunicação com equipes técnicas e a identificação de falhas antes que impactem o usuário final.
+
+Tenho interesse em qualidade de software, processos de validação e melhoria contínua, buscando sempre entender não apenas como um sistema funciona, mas também como ele pode falhar.
 
 ---
 
-<div align="center">
-  <a href="https://instagram.com/caioalvz" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"
-      alt="Instagram"
-    />
-  </a>
-  <a href="mailto:caioalves91@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge"
-      alt="Gmail"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/caioalvz" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"
-      alt="LinkedIn"
-    />
-  </a>
-</div>
+## 🧪 Quality Assurance
+
+### Testes Manuais
+- Criação de cenários e casos de teste
+- Execução de testes funcionais
+- Testes exploratórios
+- Validação de requisitos e regras de negócio
+- Registro e acompanhamento de defeitos
+- Documentação de evidências
+
+### Técnicas de Teste
+- Partição de Equivalência
+- Análise de Valor Limite
+- Tabela de Decisão
+- Transição de Estados
+- Testes Baseados em Requisitos
+
+### Gestão da Qualidade
+- Ciclo de Vida de Testes (STLC)
+- Níveis de Teste
+- Severidade e Prioridade de Bugs
+- Relatórios de Defeitos
+- Garantia da Qualidade de Software
 
 ---
 
-<div align="center">
-  <img
-    src="https://github.com/caioalvz/caioalvz/blob/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
-</div>
+## 💻 Tecnologias e Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Atualmente estudando
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+---
+
+## 📂 Projetos QA
+
+📌 Em breve você verá aqui meus projetos de QA com:
+
+## Relatórios de Bugs
+Documentação de defeitos contendo:
+- Descrição do problema
+- Passos para reprodução
+- Resultado esperado
+- Resultado obtido
+- Evidências
+
+### Casos de Teste
+Elaboração e execução de cenários de validação para aplicações web.
+
+### Testes de API
+Projetos utilizando Postman para validação de endpoints REST.
+
+### Automação de Testes
+Projetos de automação utilizando Cypress.
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade como QA Júnior ou Analista de Testes Júnior, contribuindo para a entrega de produtos mais confiáveis, estáveis e alinhados às necessidades dos usuários.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/caioalvz
+- E-mail: caioalves91@gmail.com
