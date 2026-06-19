@@ -56,24 +56,11 @@ Tenho interesse em qualidade de software, processos de validação e melhoria co
 
 ## 📂 Projetos QA
 
-📌 Em breve você verá aqui meus projetos de QA com:
+### JPetStore QA Testing Portfolio
 
-## Relatórios de Bugs
-Documentação de defeitos contendo:
-- Descrição do problema
-- Passos para reprodução
-- Resultado esperado
-- Resultado obtido
-- Evidências
+Portfólio de Quality Assurance baseado na aplicação JPetStore Demo, demonstrando habilidades práticas em testes manuais, identificação de defeitos, elaboração de casos de teste e documentação de cenários de validação.
 
-### Casos de Teste
-Elaboração e execução de cenários de validação para aplicações web.
-
-### Testes de API
-Projetos utilizando Postman para validação de endpoints REST.
-
-### Automação de Testes
-Projetos de automação utilizando Cypress.
+Repositório: [JPetStore QA Testing](https://github.com/caioalvz/jpetstore-qa-testing)
 
 ---
 
